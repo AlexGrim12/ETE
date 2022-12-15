@@ -1,0 +1,23 @@
+*{margin:0;padding:0;box-sizing:border-box;font-size:0;}
+            
+body{
+    background-color: #FFF256 ;
+}
+nav a{
+    text-decoration:none;
+    color:inherit;
+    font-size:14px;
+    } 
+    nav li{
+    display:inline-block;
+    width:10%;
+    padding:5px 10px;
+    background-color:#FFA912;
+    border:1px solid #E5D62A;
+    text-align:center;
+    color:#fff;
+    }
+    nav li:hover{
+    background-color:#fff;
+    color:#000;
+    }
